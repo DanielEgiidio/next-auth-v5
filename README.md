@@ -13,15 +13,6 @@
 - 🛡️ Validação com Zod
 - 🎯 Formulários com React Hook Form
 
-## ⚡ Destaques Técnicos
-#### React Query
-
-- Cache Inteligente: Gerenciamento automático de cache para dados
-- Real-Time Updates: Sincronização automática de dados
-#### Otimização de Performance:
-- Deduplicação de requisições
-- Background data refetching
-- Gerenciamento de estado do servidor
 
 ## 🛠️ Stack Tecnológica
 
